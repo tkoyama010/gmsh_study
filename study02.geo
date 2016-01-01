@@ -10,3 +10,4 @@ Spline(4) = {4, 1}; Transfinite Line {4} = 1 Using Progression 1;
 
 Line Loop(5) = {1, 2, 3, 4};
 Plane Surface(6) = {5};
+Recombine Surface {6};
